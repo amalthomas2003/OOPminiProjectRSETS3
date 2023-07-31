@@ -7,5 +7,5 @@ The concepts used here are
 -File Handling (CSV)
 -Functions(Call by value, Call by reference)
 
-While this code may not be perfect, It covers all functionalities of the given problem statement and I had to finish it within 6 hours. 
+While this code may not be perfect, It covers all functionalities of the given problem statement
 You Can Modify the names inside the C++ code and use it if you like. Make sure to change the names in 'data.txt' as well
